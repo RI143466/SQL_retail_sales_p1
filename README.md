@@ -189,20 +189,48 @@ GROUP BY shift
 
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+1. **Customer Insights**: Customers span multiple age groups, with varied purchasing behavior across categories.
+2. **High-Value Transactions**: Some purchases exceed 1000, indicating premium buyers.
+3. **Sales Trends**: Monthly and shift-wise analysis highlights peak periods.
+4. **Top Customers & Categories**: Identified high-spending customers and popular product categories.
 
 ## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+1. **Sales Summary**: Total sales, orders, and revenue per category.
+2. **Trend Analysis**: Monthly and shift-based sales patterns.
+3. **Customer Behavior**: Top 5 customers and unique customer distribution.
 
 ## Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project provides practical SQL experience for beginners, covering database setup, data cleaning, exploratory analysis, and business-oriented queries. It demonstrates how structured data analysis can reveal insights to guide retail decision-making.
+
+## How to Use
+
+1. **Clone the repository from GitHub.
+2. **Create the database using the provided SQL scripts.
+3. **Import the retail sales dataset into the database.
+4. **Run the SQL queries to perform analysis and generate insights.
+5. **Modify the queries to explore additional business questions.
+
+## Author
+
+**Rijingtngen Warlarpih**
+
+Recent B.Sc. Data Analytics graduate with skills in SQL, Python, Power BI, and Data Analysis. This project demonstrates my ability to clean, analyze, and extract business insights from retail sales data using SQL.
+
+## Connect With Me
+
+- **LinkedIn**: https://www.linkedin.com/in/rijingtngen-warlarpih
+- **GitHub**: https://github.com/YOUR-GITHUB-USERNAME
+
+## Project Highlights
+
+- Database Creation and Management
+- Data Cleaning and Validation
+- Exploratory Data Analysis (EDA)
+- Customer Behavior Analysis
+- Sales Trend Analysis
+- Business Insight Generation
 
 
 
