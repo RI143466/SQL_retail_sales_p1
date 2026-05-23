@@ -221,7 +221,7 @@ Recent B.Sc. Data Analytics graduate with skills in SQL, Python, Power BI, and D
 ## Connect With Me
 
 - **LinkedIn**: https://www.linkedin.com/in/rijingtngen-warlarpih
-- **GitHub**: https://github.com/YOUR-GITHUB-USERNAME
+- **GitHub**: https://github.com/Tngen01
 
 ## Project Highlights
 
